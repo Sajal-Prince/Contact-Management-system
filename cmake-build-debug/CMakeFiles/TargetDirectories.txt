@@ -1,0 +1,3 @@
+D:/College stuff/C/Micro Project First Year/cmake-build-debug/CMakeFiles/Micro_Project_First_Year.dir
+D:/College stuff/C/Micro Project First Year/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/College stuff/C/Micro Project First Year/cmake-build-debug/CMakeFiles/rebuild_cache.dir
